@@ -5,8 +5,10 @@
       "am_in": "",
       "interval": 60000,
       "is_id": "",
-      "status": "2",
-      "version_code": "0",
+    }
+  },
+  {
+    "common": {
       "nationFlag":
         {
           "Manchester United":"https://ssl.gstatic.com/onebox/media/sports/logos/5FQBXpID1LAQJb0BOnmTpw_96x96.png",
@@ -30,7 +32,8 @@
           "Getafe":"https://ssl.gstatic.com/onebox/media/sports/logos/1UDHZMdKZD15W5gus7dJyg_96x96.png",
           "Man City":"https://ssl.gstatic.com/onebox/media/sports/logos/z44l-a0W1v5FmgPnemV6Xw_96x96.png",
           "Chelsea":"https://ssl.gstatic.com/onebox/media/sports/logos/fhBITrIlbQxhVB6IjxUO6Q_96x96.png",
-          "Sevilla":"https://ssl.gstatic.com/onebox/media/sports/logos/hCTs5EX3WjCMC5Jl3QE4Rw_96x96.png"
+          "Sevilla":"https://ssl.gstatic.com/onebox/media/sports/logos/hCTs5EX3WjCMC5Jl3QE4Rw_96x96.png",
+          "Korea Republic U20":"https://i.imgur.com/e0Lfh9D.png"
         },
         "channel_info":{
           "123ecast":{
