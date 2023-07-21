@@ -3,18 +3,18 @@
     {
       "icon": "https://raw.githubusercontent.com/hmstudiodb/yumii/master/ad/icon.png",
       "cover": "https://raw.githubusercontent.com/hmstudiodb/yumii/master/ad/graphic.png",
-      "appName": "World Cup 2022 Schedule",
-      "description": "Latest update for the standing, Lineups, Squad, Yellow and red cards, Field formations, Match statistics, Top-scorer, City and stadium information",
-      "package": "livescore.schedule.worldcup",
+      "appName": "Women World Cup 2023 Live",
+      "description": "Watch 2023 football Women's World Cup live online free on TV. Latest update for the standing, Lineups, Squad and much more from the world of football",
+      "package": "com.women.worldcup",
       "link": "",
       "actionText": "VISIT APP",
       "type": "app"
     },{
       "icon": "https://raw.githubusercontent.com/hmstudiodb/yumii/master/ad/icon1.png",
       "cover": "https://raw.githubusercontent.com/hmstudiodb/yumii/master/ad/graphic1.png",
-      "appName": "World Cup 2022 Schedule",
+      "appName": "Women's World Cup 2023",
       "description": "Latest update for the standing, Lineups, Squad, Yellow and red cards, Field formations, Match statistics, Top-scorer, City and stadium information",
-      "package": "livescore.schedule.worldcup",
+      "package": "worldcup.women",
       "link": "",
       "actionText": "VISIT APP",
       "type": "app"
