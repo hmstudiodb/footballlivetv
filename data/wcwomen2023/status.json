@@ -5,6 +5,8 @@
       "am_in": "",
       "interval": 45000,
       "is_id": "",
+      "hide_match_stats":true,
+      "hide_match_squad":false,
       "livescore":[
         {
           "id":"1013561",
