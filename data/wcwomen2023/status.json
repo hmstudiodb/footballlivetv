@@ -32,12 +32,32 @@
             {
               "dateTime": 0,
               "nation": "Canada",
+              "stream": "https://www.hlsplayer.org/play?url=https%3A%2F%2Fqm1.livemodo.click%2FpprqwleV7ewZ1ut2fREbpw%2F1690072947%2F323030313a6565303a346663653a336336303a663964383a366633323a333866663a39303636%2Fff182%2Fplaylist.m3u8%3Fb%3D1",
+              "background": "#FFFFFF",
+              "name": "Open Webview",
+              "description": "1080p",
+              "logo": "HbiakTK",
+              "openWebView": true
+            },
+            {
+              "dateTime": 0,
+              "nation": "Canada",
               "stream": "https://s9.aliflailaaliflaila.com:999/hls/do29.m3u8?md5=ETIs4rlZr_z3OJD4K9H-qg&expires=1690051418",
               "background": "#FFFFFF",
-              "name": "TSN",
+              "name": "aliflailaaliflaila",
               "description": "Miror 2",
               "logo": "HbiakTK",
               "openBrowser": false
+            },
+            {
+              "dateTime": 0,
+              "nation": "Canada",
+              "stream": "https://qm1.livemodo.click/pprqwleV7ewZ1ut2fREbpw/1690072947/323030313a6565303a346663653a336336303a663964383a366633323a333866663a39303636/ff182/playlist.m3u8?b=1",
+              "background": "#FFFFFF",
+              "name": "IdeaPlayer",
+              "description": "720p",
+              "logo": "E9IuO1X",
+              "openIdeaPlayer": true
             }],
            "thumbYoutube": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/8DmyKO0xmypb3072_192x108.jpg",
            "hide": false,
