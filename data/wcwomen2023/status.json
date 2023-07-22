@@ -14,9 +14,9 @@
               "nation": "Canada",
               "stream": "https://a12.azplay.me/hls/streama212214/index.m3u8?cst=c59cf336d4ee673c8bea9b9e4310076f",
               "background": "#FFFFFF",
-              "name": "Sport TV2",
+              "name": "BBC Sports",
               "description": "720p",
-              "logo": "2UG8u5Z",
+              "logo": "E9IuO1X",
               "openBrowser": false
             },
             {
@@ -24,9 +24,9 @@
               "nation": "Canada",
               "stream": "https://a17.azplay.me/hls/streama212214/index.m3u8?cst=d13c94aab51aa7a2a02a2e7d70825d5f",
               "background": "#FFFFFF",
-              "name": "Sport TV2",
+              "name": "TSN",
               "description": "1080p",
-              "logo": "2UG8u5Z",
+              "logo": "HbiakTK",
               "openBrowser": false
             }],
            "thumbYoutube": "https://ssl.gstatic.com/onebox/media/sports/videos/vita/8DmyKO0xmypb3072_192x108.jpg",
@@ -35,16 +35,16 @@
             "linkYoutube": "https://www.fifa.com/fifaplus/watch/4NT53rpdd9h4uFX2F3iQQT"
         },
         {
-          "id":"",
+          "id":"1013562",
           "streamingData": [
             {
               "dateTime": 0,
               "nation": "Canada",
-              "stream": "https://ok.ru/videoembed/3886878362210",
+              "stream": "https://www.youtube.com/watch?v=USdoB00nAAU",
               "background": "#FFFFFF",
-              "name": "Opening Ceremony",
-              "description": "Server 1",
-              "logo": "2UG8u5Z",
+              "name": "MAT4",
+              "description": "720p",
+              "logo": "Y5HGejc",
               "openBrowser": true
             },
             {
@@ -52,9 +52,9 @@
               "nation": "Canada",
               "stream": "https://sblongvu.com/e/3d2nnul2r999.html",
               "background": "#FFFFFF",
-              "name": "Opening Ceremony",
+              "name": "M4 Sports",
               "description": "Server 2",
-              "logo": "2UG8u5Z",
+              "logo": "PjdwPnq",
               "openBrowser": true
             }]
         }
