@@ -12,7 +12,7 @@
             {
               "dateTime": 0,
               "nation": "Canada",
-              "stream": "https://a12.azplay.me/hls/streama212214/index.m3u8?cst=c59cf336d4ee673c8bea9b9e4310076f",
+              "stream": "https://qm1.livemodo.click/pprqwleV7ewZ1ut2fREbpw/1690072947/323030313a6565303a346663653a336336303a663964383a366633323a333866663a39303636/ff182/playlist.m3u8?b=1",
               "background": "#FFFFFF",
               "name": "BBC Sports",
               "description": "720p",
@@ -22,10 +22,20 @@
             {
               "dateTime": 0,
               "nation": "Canada",
-              "stream": "https://a17.azplay.me/hls/streama212214/index.m3u8?cst=d13c94aab51aa7a2a02a2e7d70825d5f",
+              "stream": "https://ecloud.welive.sbs:8089/hls/nRXKQ570k19V/index.m3u8?st=tpqGYBM9l8wA_29v94zgXg&e=1690054987",
               "background": "#FFFFFF",
               "name": "TSN",
               "description": "1080p",
+              "logo": "HbiakTK",
+              "openBrowser": false
+            },
+            {
+              "dateTime": 0,
+              "nation": "Canada",
+              "stream": "https://s9.aliflailaaliflaila.com:999/hls/do29.m3u8?md5=ETIs4rlZr_z3OJD4K9H-qg&expires=1690051418",
+              "background": "#FFFFFF",
+              "name": "TSN",
+              "description": "Miror 2",
               "logo": "HbiakTK",
               "openBrowser": false
             }],
@@ -55,7 +65,7 @@
               "name": "M4 Sports",
               "description": "Server 2",
               "logo": "PjdwPnq",
-              "openBrowser": true
+              "openWebView": true
             }]
         },{
           "id":"1013563",
