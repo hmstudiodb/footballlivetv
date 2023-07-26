@@ -7,9 +7,9 @@
       "is_id": ""
     },
     "com.women.worldcup": {
-      "ads_list": [],
-      "am_in": "",
-      "interval": 60000,
+      "ads_list": ["am"],
+      "am_in": "ca-app-pub-4694051898425274/9878041471",
+      "interval": 45000,
       "is_id": "",
 
       "status":2,
