@@ -6,6 +6,12 @@
       "interval": 60000,
       "is_id": ""
     },
+    "worldcup.women": {
+      "ads_list": ["am"],
+      "am_in": "ca-app-pub-4694051898425274/6169718991",
+      "interval": 45000,
+      "is_id": ""
+    },
     "com.women.worldcup": {
       "ads_list": ["is"],
       "am_in": "",
