@@ -7,10 +7,10 @@
       "is_id": ""
     },
     "worldcup.women": {
-      "ads_list": ["am"],
-      "am_in": "",
+      "ads_list": ["am", "is"],
+      "am_in": "ca-app-pub-4576769423328380/2193467466",
       "interval": 45000,
-      "is_id": ""
+      "is_id": "1b3af1d85"
     },
     "com.women.worldcup": {
       "ads_list": ["is"],
