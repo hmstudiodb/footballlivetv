@@ -8,8 +8,11 @@
     },
     "worldcup.women": {
       "ads_list": ["is"],
+      
       "am_in": "",
+
       "interval": 45000,
+
       "is_id": "1b3af1d85"
     },
     "com.women.worldcup": {
